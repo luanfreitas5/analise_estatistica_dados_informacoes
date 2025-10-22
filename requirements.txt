@@ -1,0 +1,11 @@
+plotly
+scipy
+scikit-learn
+statsmodels
+matplotlib
+numpy
+pandas
+seaborn
+yfinance
+imbalanced-learn
+xgboost
